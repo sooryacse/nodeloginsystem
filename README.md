@@ -1,19 +1,16 @@
-# Node.js & Passport Login
 
 This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
 
-### Version: 2.0.0
-
-### Usage
+#Steps to run this project?
 
 ```sh
-$ npm install
+Go to the root directory or where the package.json file is located
 ```
 
 ```sh
-$ npm start
-# Or run with Nodemon
-$ npm run dev
+npm install
+
+npm start
 
 # Visit http://localhost:5000
 ```
